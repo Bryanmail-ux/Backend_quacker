@@ -1,0 +1,7 @@
+______________ aparte de istalla django recordar intalar pillow comando es: ______________
+
+#para verificar si esta instalado la libreria en .venv
+> show pillow 
+
+#instalar la libreria sirve para abrir, crear, editar y procesar imágenes de forma sencilla.
+> pip install pillow 
